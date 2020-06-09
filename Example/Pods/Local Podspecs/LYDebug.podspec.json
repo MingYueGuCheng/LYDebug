@@ -1,0 +1,22 @@
+{
+  "name": "LYDebug",
+  "version": "0.1.0",
+  "summary": "A short description of LYDebug.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/似水灵修/LYDebug",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "似水灵修": "wulang@u51.com"
+  },
+  "source": {
+    "git": "https://github.com/似水灵修/LYDebug.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LYDebug/Classes/**/*"
+}

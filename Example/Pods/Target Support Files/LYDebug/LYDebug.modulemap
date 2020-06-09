@@ -1,0 +1,6 @@
+framework module LYDebug {
+  umbrella header "LYDebug-umbrella.h"
+
+  export *
+  module * { export * }
+}

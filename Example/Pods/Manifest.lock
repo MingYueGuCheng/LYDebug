@@ -1,0 +1,16 @@
+PODS:
+  - LYDebug (0.1.0)
+
+DEPENDENCIES:
+  - LYDebug (from `../`)
+
+EXTERNAL SOURCES:
+  LYDebug:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYDebug: 149f3222c7576b5f30b5fa42554dde46e7d9212f
+
+PODFILE CHECKSUM: 5a7ad3b1b8891099d77619613ef912c6ed216cfe
+
+COCOAPODS: 1.8.4

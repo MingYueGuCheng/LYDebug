@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LYDebug_Example' do
+  pod 'LYDebug', :path => '../'
+
+  target 'LYDebug_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
