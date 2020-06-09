@@ -22,7 +22,7 @@ pod 'LYDebug'
 
 ## Author
 
-似水灵修, wulang@u51.com
+似水灵修, mingyuegucheng@icloud.com
 
 ## License
 

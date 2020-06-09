@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "LYLog.h"
+#import "NSObject+Code.h"
 
 FOUNDATION_EXPORT double LYDebugVersionNumber;
 FOUNDATION_EXPORT const unsigned char LYDebugVersionString[];

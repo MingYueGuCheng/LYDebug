@@ -7,6 +7,7 @@
 //
 
 #import "LYViewController.h"
+#import <LYDebug/LYLog.h>
 
 @interface LYViewController ()
 
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"%s", __FILE__);
+    LYLog(@"%s", __FILE_NAME__);
 }
 
 - (void)didReceiveMemoryWarning
