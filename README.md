@@ -16,8 +16,14 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 LYDebug is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
+## Pod 安装
 ```ruby
 pod 'LYDebug'
+```
+
+## SPM 安装
+```
+.package(url: "https://github.com/yyly/LYDebug.git", from: "0.1.0")
 ```
 
 ## Author
